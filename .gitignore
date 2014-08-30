@@ -1,0 +1,6 @@
+/games
+/images
+/presskit
+*.sublime-project
+*.sublime-workspace
+sftp-config.json
